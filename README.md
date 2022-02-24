@@ -19,3 +19,8 @@
 * Run `ionic serve` in a terminal from the project root.
 * 😄
 
+
+## App Preview
+
+
+![SC](output_sc.gif?raw=True)
